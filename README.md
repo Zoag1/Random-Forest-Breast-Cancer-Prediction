@@ -1,4 +1,4 @@
-# Breast Cancer Prediction with Random Forest
+# Breast Cancer Prediction with Random Forest Clasification
 Proyek ini bertujuan untuk melakukan klasifikasi pada dataset Breast Cancer menggunakan algoritma Random Forest. Dataset yang digunakan berasal dari scikit-learn, yang dapat diakses melalui [link ini](https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html#load-breast-cancer). Hasil dari klasifikasi menunjukkan performa yang sangat baik dengan skor ROC-AUC sebesar 0.995.
 
 ### Tujuan (Goals):
